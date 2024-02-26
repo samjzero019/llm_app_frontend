@@ -15,8 +15,8 @@ STREAMLIT_SESSION_VARS: List[Tuple] = [("generated", []), ("past", []), ("input"
 HTTP_OK: int = 200
 
 
-# api: str = "__API_GW_ENDPOINT__"
-api: str = "https://ohyalq02l9.execute-api.us-east-1.amazonaws.com/test"
+api: str = "__API_GW_ENDPOINT__"
+# api: str = "https://ohyalq02l9.execute-api.us-east-1.amazonaws.com/test"
 
 
 ####################
